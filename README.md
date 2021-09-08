@@ -15,11 +15,13 @@ MarkDown에 대해서 공부해보자
 ___
 
 <!-- Text attributes -->
-
 **bold**  *italic*
 ~~strikethrough~~
 
+**  ** / * * / ~~ ~~
+
 >원하는 문장을 quote 안으로 넣기 
+'>' 을 사용하자
 
 <!-- Bullet list -->
  * 별 모양 
@@ -35,11 +37,18 @@ ___
  3. 리스트
 
  <!-- Link -->
+ 링크를 사용해보자
  블로그로 [바로가기](https://park-algorithm.tistory.com/)
 
+[클릭] + (링크)
 
 <!-- Image -->
-![이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCGUTy%2Fbtrea2ETJWN%2FYofuTgujK0Zx77oAKGAP71%2Fimg.png)
+이미지를 사용해 보자
+
+![이미지](https://portal.uos.ac.kr/uosNew/images/main/logo.png)
+
+![이미지] + (이미지 링크)
+
 
 <!-- Table -->
 |Header|Description|
@@ -48,6 +57,7 @@ ___
 |cell1|cell2|
 |cell1|cell2|
 |cell1|cell2|
+
 
 
 <!-- COde -->
